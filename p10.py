@@ -18,3 +18,6 @@ print 'total:',total_age
 print"average ages:",total_age/len(ages)
 
 print"len :",len(ages)
+
+def has_negative(L):
+# esto es una prueba
